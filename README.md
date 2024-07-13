@@ -7,6 +7,9 @@
 2. Install dependencies:
     npm i
 
+3. Create .env file:
+    Copy content from .env.sample file and change port value if require.
+
 3. Run the server:
     npm start
 
